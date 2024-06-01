@@ -1,11 +1,9 @@
 {
   "private": true,
-  "scripts": {
-    "build": "next build",
+   "scripts": {
     "dev": "next dev",
-    "start": "next start",
-    "build": "[my-framework] build --output public"
-    
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
